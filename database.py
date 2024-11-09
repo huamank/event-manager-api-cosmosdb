@@ -1,8 +1,8 @@
 from azure.cosmos import CosmosClient, exceptions
 
 # Obtener las variables de entorno
-COSMOS_ENDPOINT = 'https://acdbkrmdev.documents.azure.com:443/'
-COSMOS_KEY = '1XA0ONoNdkZeRcQ0BNi8uJNW8zNR0acZIZ8xFRROshtbJT3nROvj6PRzgr7Xq1n2d0dA7VQPgIx3ACDbwJZ7eg=='
+COSMOS_ENDPOINT = ''
+COSMOS_KEY = ''
 DATABASE_NAME = 'test_db'
 CONTAINER_NAME = 'events'
 
